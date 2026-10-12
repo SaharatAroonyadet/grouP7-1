@@ -7,8 +7,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+1. hi am good cat **cat**.  
+   ![cat](img1.png)
 
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
    (Nobody is sure yet.)
@@ -30,4 +30,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. The ending eiei
