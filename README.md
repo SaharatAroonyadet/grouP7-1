@@ -13,7 +13,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Today,I,m going to treasure hunting and i have a map  
    ![map](/img/map.png)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. i want to make a rocket to find treasure 
+   ![rocket](/img/rocket.png)
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
