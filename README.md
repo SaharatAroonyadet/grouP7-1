@@ -16,8 +16,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. i want to make a rocket to find treasure 
    ![rocket](/img/rocket.png)
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+4. Finally, I used my rocket to fly in to space and search for the treasure
+   ![treasure_large](/img/treasure_large.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
