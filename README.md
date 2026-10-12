@@ -13,22 +13,12 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Today,I,m going to treasure hunting and i have a map  
    ![map](/img/map.png)
 
-3. i want to make a rocket to find treasure 
-   ![rocket](/img/rocket.png)
+3. The scientist shouted something very important but nobody wrote it down.  
 
-4. Finally, I used my rocket to fly in to space and search for the treasure
+4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure_large](/img/treasure_large.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. When they opened that large treasure chest, they found an alien with ice cream.
+   ![alien](/img/alien.png)
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
-
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
-
-8. The cat was supposed to talk here, but the line is missing.  
-
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
-
-10. The ending eiei
+6. The End
