@@ -8,10 +8,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ## Our Wonderful Story
 
 1. hi am good cat **cat**.  
-   ![cat](img1.png)
+   ![cat](/img/cat.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. Today,I,m going to treasure hunting and i have a map  
+   ![map](/img/map.png)
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
